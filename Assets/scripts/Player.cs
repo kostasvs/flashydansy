@@ -92,7 +92,7 @@ public class Player : MonoBehaviour {
 
 	void Awake () {
 
-		if (MobileGame) onMobile = true;
+		if (MobileGame || Application.isMobilePlatform) onMobile = true;
 		//if (onMobile) Screen.sleepTimeout = SleepTimeout.NeverSleep;
 
 		direction = -1;
