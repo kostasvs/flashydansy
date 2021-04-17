@@ -338,3 +338,26 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+/UpgradeLog.htm
+/UnityEngine.TestRunner.csproj
+/UnityEditor.TestRunner.csproj
+/[Tt]emp
+/[Ll]ogs
+/[Ll]ibrary
+/apk_icon_v2.psd
+/apk_icon_v2.png
+/apk_icon.psd
+/car1uv.png
+/cover_hd.psd
+/cover_draft_hd.psd
+/coollogo_hd.png
+/coollogo2.psd
+/coollogo.jpg
+/icon_fb_small.psd
+/icon_fb2.psd
+/icon_fb2.png
+/icon_fb.psd
+/icon_fb.png
+/icon_bighead.png
+/man_torso_uv.png
