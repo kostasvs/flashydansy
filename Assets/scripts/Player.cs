@@ -466,8 +466,9 @@ public class Player : MonoBehaviour {
 	public void ToStart (bool atShowPos = false) {
 
 		pose = 0;
-		transform.position = startPosReal;
-		if (atShowPos) transform.position = new Vector3 (startPosReal.x, startPosReal.y, 40f);
+		var pos = startPosReal;
+		if (atShowPos) pos.z = 40f;
+		if ((transform.position - pos).sqrMagnitude > 1f) transform.position = pos;
 		phys.SetVelocity (Vector3.zero);
 		dance.ResetMode ();
 	}
