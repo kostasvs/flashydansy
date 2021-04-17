@@ -3564,8 +3564,11 @@ MonoBehaviour:
     game autosaves your unlocked moves and levels, and your highest scores."
   - "That's it. Hit Play! :)\r\n\r\nFlashy Dansy was made by Kostas Ventouras (originally
     for #tagjam15 competition in 72 hours)\r\n\r\nwebsite: junkbytes.com\r\njunkbytes.itch.io"
-  - The songs used in this game are only used for entertainment / parody purposes.
-    I do not own any rights to them.
+  - 'Songs used (CC licence):
+
+    The Kyoto Connection - Marks
+
+    Jahzzar - Heartbreaker.mp3'
   current: 0
   mytext: {fileID: 825503007}
   page: {fileID: 1531768600}
@@ -28704,9 +28707,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   songDuration: 158
-  beatDuration: 0.651
+  beatDuration: 0.5
   beatsStart: 1
-  beatCorrection: 0.1
+  beatCorrection: 0
   playTime: 0
   grow: 0.5
   curveScale: 4
@@ -28721,7 +28724,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 950fe396dd7031144b442fa558887641, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bdc91f853f8409040b9b7b9d756fa8b2, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
