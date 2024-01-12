@@ -6,8 +6,6 @@ Originally made for [#tagjam15](http://jams.gamejolt.io/tagjam15) gamejam (Oct 2
 
 Flashy Dansy was the winner of the gamejam and since then has over 18k downloads [on Gamejolt](http://gamejolt.com/games/platformer/flashy-dansy/35525/).
 
-Initially made for Windows/Mac/Linux, now also available [on Play Store for Android](https://play.google.com/store/apps/details?id=com.junkbytes.flashydansy).
-
 The project is now open source, mostly as a portfolio piece, but any contributions are welcome (see below).
 
 ## Gameplay Preview
